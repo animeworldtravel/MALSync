@@ -22,6 +22,8 @@
   </tr><tr>
     <td><a href="https://animationdigitalnetwork.com"><img src="https://favicon.malsync.moe/?domain=https://animationdigitalnetwork.com"> ADN</a></td>
     <td>French, German</td>
+    <td><a href="https://aniworld.com.de"><img src="https://favicon.malsync.moe/?domain=https://aniworld.com.de">Ani World</a></td>
+    <td>German, English</td>
     <td>:heavy_check_mark:</td>
     <td>:x:</td>
     <td>:x:</td>
