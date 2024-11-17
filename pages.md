@@ -589,6 +589,13 @@
     <td>:x:</td>
     <td>:heavy_check_mark:</td>
   </tr><tr>
+  <td><a href="https://aniworld.com.de"><img src="https://favicon.malsync.moe/?domain=https://aniworld.com.de"> Ani World</a></td>
+    <td>English, German</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+  </tr><tr>
     <td><a href="https://bentomanga.com"><img src="https://favicon.malsync.moe/?domain=https://bentomanga.com"> Bentomanga</a></td>
     <td>French</td>
     <td>:heavy_check_mark:</td>
